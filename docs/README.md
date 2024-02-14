@@ -1,7 +1,8 @@
-# Overview
+# docs
 
-The Small General is a STM32 based development board that boast a 48MHz Cortex-M0 STM32F072 Microcontroller and breaks out interfaces that a user would usually use when prototyping or for use in small spaces.
+This is a template for docs deploying to gh-pages
 
+<<<<<<< HEAD
 ### Quick Links
 
 - [Renders](./Renders.md "Renders")
@@ -41,3 +42,5 @@ Compatible connectors (01x05 Styled - 2.00mm)
 - JST PH B5B [Vertical] (Refer to Parts)
 
 ### 8 Pin Connectors:
+=======
+>>>>>>> refs/remotes/origin/rev3
