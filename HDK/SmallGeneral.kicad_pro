@@ -451,7 +451,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "../Renders/Pedal-Sensor.step",
+      "step": "../Renders/TopNone-BotNone/SmallGeneral-TNBN.STEP",
       "vrml": ""
     },
     "page_layout_descr_file": ""
