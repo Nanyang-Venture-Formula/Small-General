@@ -2,14 +2,14 @@
 
 The Small General is a STM32 based development board that boast a 48MHz Cortex-M0 STM32F072 Microcontroller and breaks out interfaces that a user would usually use when prototyping or for use in small spaces.
 
-
 ### Quick Links
 
-- [Renders](./Renders.md)
+- [Renders](./Renders.md "Renders")
+- [Technical](./Technical.md "Technical")
 
 ## Form Factor
 
-The Small General is 50mm x 80mm in size. 
+The Small General is 50mm x 80mm in size.
 
 There are 4 x M4 screw holes (padded top and bottom; connected to ground) that are 6mm x 6mm from the corners of the boards 50mm x 80mm dimensions.
 
@@ -25,7 +25,6 @@ There are 3mm fillets at all 4 corners of the board.
 6. NRST, BOOT0 buttons
 7. LED Indicators for 3v3 Power, 5v power
 8. Programmble User button and LED
-
 
 ## 5 Pin Connectors:
 

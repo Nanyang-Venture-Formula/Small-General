@@ -1,17 +1,18 @@
-# docs
+# Technical
 
-This is a template for docs deploying to gh-pages
+Technical components of the Small General
 
 
 # LEDs
 
 Calculations for Current Limiting Resistors (CLRs):
 
-Taking into consideration the LED's $V_{F}$ and $I_{F}$, and input Voltage $V_{IN}$: 
+Taking into consideration the LED's $V_{F}$ and $I_{F}$, and input Voltage $V_{IN}$:
 
 we can calculate the CLR with the formula $R = \dfrac{(V_{IN}-V_{F})}{I_{F}}$.
 
-### User LED.
+### User LED
+
 
 | Factor     | Value |
 | ---------- | ----- |
