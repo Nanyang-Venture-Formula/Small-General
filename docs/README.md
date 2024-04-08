@@ -1,4 +1,4 @@
-# Small General (Rev 4.0)
+# Small General (Rev 4.1)
 
 This repository contains all documents regarding the Small General board.
 
