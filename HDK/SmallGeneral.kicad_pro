@@ -495,7 +495,7 @@
       "plot": "../Production/v4/small-general-prod/",
       "pos_files": "../Production/v4/",
       "specctra_dsn": "",
-      "step": "../Renders/R4/SmallGeneral.STEP",
+      "step": "../Renders/SmallGeneral.STEP",
       "svg": "",
       "vrml": ""
     },
@@ -576,6 +576,12 @@
           "label": "Description",
           "name": "Description",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Assemble",
+          "name": "Assemble",
+          "show": true
         }
       ],
       "filter_string": "",
