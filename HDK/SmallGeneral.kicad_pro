@@ -492,7 +492,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "../Production/v4/small-general-prod/",
+      "plot": "../Production/",
       "pos_files": "../Production/v4/",
       "specctra_dsn": "",
       "step": "../Renders/SmallGeneral.STEP",
