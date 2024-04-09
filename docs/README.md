@@ -24,6 +24,7 @@ This repository contains all documents regarding the Small General board.
 ## Renders
 
 ![img](./renders/SmallGeneral-top.png)
+![img](./renders/SmallGeneral-isometric.png)
 ![img](./renders/SmallGeneral-bottom.png)
 
 
