@@ -29,7 +29,7 @@ This repository contains all documents regarding the Small General board.
 
 ## Bom
 
-[Interactive BOM](./ibom/SmallGeneral-ibom.html)
+[Interactive BOM](./ibom/ibom)
 
 [BOM](./bom/SmallGeneral-BOM.csv)
 
